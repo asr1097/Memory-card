@@ -1,0 +1,17 @@
+.scoreboard {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 40vw;
+    font-size: 1.7em;
+    padding: 0.3em;
+}
+
+.score {
+    color: blue;
+}
+
+.highscore {
+    color: red;
+}
